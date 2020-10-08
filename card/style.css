@@ -54,7 +54,7 @@ body {
     justify-content: center;
 }
 
-.card .monster:hover > .effects{
+.card .monster:hover > .effects {
     z-index: 0;
     background: #506367;
     color: white;

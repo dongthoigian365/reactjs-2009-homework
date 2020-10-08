@@ -35,7 +35,8 @@ li a,
     font-size: 30px;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
+li a:hover,
+.dropdown:hover .dropbtn {
     background-color: #000000;
 }
 
